@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 200%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.wood {
+    color: rgb(107, 67, 25);
+}
+
+.stone {
+    color: rgb(117, 117, 117);
+}
